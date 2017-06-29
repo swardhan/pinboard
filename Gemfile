@@ -15,6 +15,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'devise', '~>3.4.0'
 gem "paperclip", "~> 5.0.0"
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.10.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
